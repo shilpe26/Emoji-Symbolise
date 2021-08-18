@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* height: 400%; */
+  margin: 0; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+input{
+  padding: 1rem;
+  width: 50%;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Style Script', cursive;
+  color: #F9B208;
+}
+.emojiDesciption{
+  font-size: 25px;
+  color: #3D087B;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.emojiWeHave{
+  font-size: 30px;
+  color: #F43B86;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
