@@ -36,7 +36,7 @@ export default function App() {
     <div className="App" style={{ 
       backgroundImage: `url(${emoji})` 
     }}>
-      <h1>inside outtt...</h1>
+      <h1>Emoticons</h1>
       <input onChange={emojiInputHandler} />
 
       <div className="emojiDesciption"><h2>{meaning}</h2></div>
